@@ -16,4 +16,5 @@
 * [二、採購訂單與進銷存](er-cai-gou-ding-chan-yu-jin-xiao-cun/README.md)
   * [2.1報價單](er-cai-gou-ding-chan-yu-jin-xiao-cun/2.1-bao-jia-chan.md)
   * [2.2訂單](er-cai-gou-ding-chan-yu-jin-xiao-cun/2.2-ding-chan.md)
+  * [2.3採購單](er-cai-gou-ding-chan-yu-jin-xiao-cun/2.3-cai-gou-chan.md)
 
