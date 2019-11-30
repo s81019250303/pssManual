@@ -24,4 +24,6 @@
   * [3.4應收票據開帳](san-zhang-kuan-shou-fu-pian/3.4-ying-shou-piao-ju-kai-zhang.md)
   * [3.5銷貨使用支票收款](san-zhang-kuan-shou-fu-pian/3.5-xiao-huo-shi-yong-zhi-piao-shou-kuan.md)
   * [3.6信用卡收款](san-zhang-kuan-shou-fu-pian/3.6-xin-yong-ka-shou-kuan.md)
+* [四、金流篇](si-jin-liu-pian/README.md)
+  * [4.1金流開帳](si-jin-liu-pian/4.1-jin-liu-kai-zhang.md)
 
