@@ -17,4 +17,6 @@
   * [2.1報價單](er-cai-gou-ding-chan-yu-jin-xiao-cun/2.1-bao-jia-chan.md)
   * [2.2訂單](er-cai-gou-ding-chan-yu-jin-xiao-cun/2.2-ding-chan.md)
   * [2.3採購單](er-cai-gou-ding-chan-yu-jin-xiao-cun/2.3-cai-gou-chan.md)
+* [三、帳款收付篇](san-zhang-kuan-shou-fu-pian/README.md)
+  * [3.1應收帳款開帳](san-zhang-kuan-shou-fu-pian/3.1-ying-shou-zhang-kuan-kai-zhang.md)
 
