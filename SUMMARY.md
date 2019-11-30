@@ -22,4 +22,6 @@
   * [3.2收款單](san-zhang-kuan-shou-fu-pian/3.2.md)
   * [3.3銷貨單](san-zhang-kuan-shou-fu-pian/3.3-xiao-huo-chan.md)
   * [3.4應收票據開帳](san-zhang-kuan-shou-fu-pian/3.4-ying-shou-piao-ju-kai-zhang.md)
+  * [3.5銷貨使用支票收款](san-zhang-kuan-shou-fu-pian/3.5-xiao-huo-shi-yong-zhi-piao-shou-kuan.md)
+  * [3.6信用卡收款](san-zhang-kuan-shou-fu-pian/3.6-xin-yong-ka-shou-kuan.md)
 
