@@ -26,4 +26,7 @@
   * [3.6信用卡收款](san-zhang-kuan-shou-fu-pian/3.6-xin-yong-ka-shou-kuan.md)
 * [四、金流篇](si-jin-liu-pian/README.md)
   * [4.1金流開帳](si-jin-liu-pian/4.1-jin-liu-kai-zhang.md)
+  * [4.2現金](si-jin-liu-pian/4.2-xian-jin.md)
+  * [4.3轉帳](si-jin-liu-pian/4.3-zhuan-zhang.md)
+  * [4.4信用卡](si-jin-liu-pian/4.4-xin-yong-ka.md)
 
