@@ -29,4 +29,5 @@
   * [4.2現金](si-jin-liu-pian/4.2-xian-jin.md)
   * [4.3轉帳](si-jin-liu-pian/4.3-zhuan-zhang.md)
   * [4.4信用卡](si-jin-liu-pian/4.4-xin-yong-ka.md)
+  * [4.5收款單](si-jin-liu-pian/4.5-shou-kuan-chan.md)
 
